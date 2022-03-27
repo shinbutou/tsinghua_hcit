@@ -1,3 +1,5 @@
 # ReadMe
-
-The repository is dedicated to
+The repository is dedicated to a course at Tsinghua University.
+* Course Name:
+* Course ID:
+* Semester:
