@@ -1,0 +1,3 @@
+[submodule "MusicFitApp/MusicFit"]
+	path = MusicFitApp/MusicFit
+	url = https://github.com/dykderrick/MusicFit
